@@ -7,4 +7,4 @@ Clone of a very popular American Game
 
 
 
-*Developed using Java Swing and Java AW
+*Developed using Java Swing and Java AWT
